@@ -1,11 +1,9 @@
-# BetaVault
+# BetaVault Beta
 
-ℹ️ More information will be added to the README in the future! ℹ️
+## This project has been depreacated
+## Go to https://github.com/BetaVault/BetaVault.github.io for the new project
 
-This project aims to provide an alternative to the infamous BetaArchive, without the need for download access.
+This project has ended support
 
-Contributors:
-
-- Viradex
-- XenonWindows (aka MSNeptuned, Threshold, Vistawave, and Windev)
-- 7Zeb
+## Why?
+Because now there is a new one that is much better.
